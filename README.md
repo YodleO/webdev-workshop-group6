@@ -1,2 +1,2 @@
-# webdev-workshop-group6
-Workshop Group for MongoDB Atlas
+# WebDev Workshop Group6
+
